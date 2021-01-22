@@ -1,5 +1,5 @@
 {
-  "name": "github-followers",
+  "name": "github-follower",
   "version": "1.0.0",
   "description": "This is a simple code for getting followers of a user in github",
   "main": "App.js",
